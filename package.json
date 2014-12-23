@@ -1,0 +1,33 @@
+{
+    "name": "html-proofer",
+    "version": "0.0.1",
+    "description": "Test your rendered HTML files to make sure they're accurate.",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "html",
+        "proofer",
+        "html-proofer",
+        "html5"
+    ],
+    "author": {
+        "name": "Anders Olsen Sandvik",
+        "email": "npm@andersos.net",
+        "url": "https://andersos.net/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andersos/html-proofer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/andersos/html-proofer/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/andersos/html-proofer/blob/master/LICENSE"
+        }
+    ]
+}
